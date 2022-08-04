@@ -16,11 +16,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <a href="https://www.linkedin.com/in/olavogama" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandrogama)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrogama)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
