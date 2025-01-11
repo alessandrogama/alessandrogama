@@ -4,9 +4,9 @@
 ### My name is Alessandro Gama, I'm a web system developer.!
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 🧑‍💼 Developer
-- 🌱 💙 Knowledge in: PHP, Vue.js, C#, Javascript, among others.
+- 🌱 💙 Knowledge in: PHP, Vue.js, C#, Javascript, Outsystems, Mendix, Java,Docker among others.
 - 🤝 💚 Framework: Laravel, Flutter 
-- 🤝 💚 ❤️ Database: Mysql, Postgres, sql server 
+- 🤝 💚 ❤️ Database: Mysql, Postgres, sql server , MongoDB
 ### My contacts:
 
 <div>
